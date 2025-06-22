@@ -1,0 +1,72 @@
+[
+  {
+    "question_text": "What is the output of print(type([])) in Python?",
+    "options": ["<class 'list'>", "<type 'list'>", "list", "ListType"],
+    "correct_answer": "<class 'list'>",
+    "difficulty": "Easy",
+    "topic": "Python"
+  },
+  {
+    "question_text": "Which keyword is used to define a function in Python?",
+    "options": ["defn", "func", "define", "def"],
+    "correct_answer": "def",
+    "difficulty": "Easy",
+    "topic": "Python"
+  },
+  {
+    "question_text": "What is the result of bool(\"False\") in Python?",
+    "options": ["False", "True", "Error", "None"],
+    "correct_answer": "True",
+    "difficulty": "Medium",
+    "topic": "Python"
+  },
+  {
+    "question_text": "What symbol is used to define a scalar variable in Perl?",
+    "options": ["$", "@", "%", "&"],
+    "correct_answer": "$",
+    "difficulty": "Easy",
+    "topic": "Perl"
+  },
+  {
+    "question_text": "What does the chomp function do in Perl?",
+    "options": ["Trims whitespace", "Converts to lowercase", "Removes the last character", "Removes newline character"],
+    "correct_answer": "Removes newline character",
+    "difficulty": "Medium",
+    "topic": "Perl"
+  },
+  {
+    "question_text": "How do you print 'Hello World' in Perl?",
+    "options": ["echo \"Hello World\"", "puts \"Hello World\"", "print(\"Hello World\")", "print \"Hello World\";"],
+    "correct_answer": "print \"Hello World\";",
+    "difficulty": "Easy",
+    "topic": "Perl"
+  },
+  {
+    "question_text": "What is the file extension for Tcl scripts?",
+    "options": [".tk", ".tc", ".tcl", ".tickle"],
+    "correct_answer": ".tcl",
+    "difficulty": "Easy",
+    "topic": "Tcl/Tk"
+  },
+  {
+    "question_text": "In Tcl, which command is used to output text?",
+    "options": ["echo", "puts", "print", "out"],
+    "correct_answer": "puts",
+    "difficulty": "Easy",
+    "topic": "Tcl/Tk"
+  },
+  {
+    "question_text": "What does 'set x 5' do in Tcl?",
+    "options": ["Sets a constant", "Declares x as global", "Assigns 5 to variable x", "Outputs 5"],
+    "correct_answer": "Assigns 5 to variable x",
+    "difficulty": "Medium",
+    "topic": "Tcl/Tk"
+  },
+  {
+    "question_text": "What is Tcl commonly used for?",
+    "options": ["Data Science", "Web Development", "Scripting and GUI development", "Game Development"],
+    "correct_answer": "Scripting and GUI development",
+    "difficulty": "Easy",
+    "topic": "Tcl/Tk"
+  }
+]

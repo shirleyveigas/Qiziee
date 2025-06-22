@@ -1,0 +1,6 @@
+r (t): 0/3
+shirl (cse): 2/3
+shirl (cse): 3/10
+r (r): 2/10
+dddd (dd): 3/10
+shirley (cse): 5/10
